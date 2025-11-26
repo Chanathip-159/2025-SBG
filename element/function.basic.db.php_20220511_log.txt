@@ -1,3 +1,0 @@
-2022-05-11 05:09:24 :: db error msg :: SQLSTATE[08001]: [Microsoft][ODBC Driver 11 for SQL Server]Unable to complete login process due to delay in opening server connection
-can not connect
-
